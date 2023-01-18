@@ -26,4 +26,4 @@ def convert_heic_to_jpg(path):
         "JPEG"), quality=80, optimize=True, progressive=True)
 
 
-print_directory_contents("/Users/ronny/Documents/Vane")
+print_directory_contents("path/to/folder")
