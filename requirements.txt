@@ -21,7 +21,7 @@ cryptography==37.0.2
 defusedxml==0.7.1
 Deprecated==1.2.13
 dj-stripe==2.7.2
-Django==3.2.16
+Django==3.2.18
 django-allauth==0.50.0
 django-allauth-2fa==0.10.0
 django-anymail==8.6
